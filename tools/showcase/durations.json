@@ -1,0 +1,149 @@
+{
+ "lines": [
+  {
+   "id": "open1",
+   "text": "High above the valley stands a temple... and in it, a monk who commands every stone.",
+   "dur": 8.02
+  },
+  {
+   "id": "open2",
+   "text": "Moros. The Shard Monk.",
+   "dur": 4.33
+  },
+  {
+   "id": "axe",
+   "text": "He tears the courtyard apart, and shapes it into weapons. An executioner's axe.",
+   "dur": 7.46
+  },
+  {
+   "id": "gauntlet",
+   "text": "But Kaito, the Blade Hand, answers stone with stone.",
+   "dur": 5.06
+  },
+  {
+   "id": "serpent",
+   "text": "A serpent dragon... shattered by a single punch.",
+   "dur": 4.32
+  },
+  {
+   "id": "grasp",
+   "text": "A titan's hand closes around him. Thunder Palm blasts it apart.",
+   "dur": 5.87
+  },
+  {
+   "id": "lances",
+   "text": "A storm of stone lances.",
+   "dur": 2.65
+  },
+  {
+   "id": "roc",
+   "text": "A bird of stone, diving from the sky.",
+   "dur": 3.58
+  },
+  {
+   "id": "hammer",
+   "text": "The Skybreaker.",
+   "dur": 1.8
+  },
+  {
+   "id": "flood",
+   "text": "And a flood of rock.",
+   "dur": 2.09
+  },
+  {
+   "id": "hunt1",
+   "text": "When Kaito runs, Moros hunts. Serpents of stone sweep the streets.",
+   "dur": 6.77
+  },
+  {
+   "id": "hunt2",
+   "text": "Up on the rooftops, the swarms cannot see him.",
+   "dur": 4.18
+  },
+  {
+   "id": "hunt3",
+   "text": "Until he comes down.",
+   "dur": 2.29
+  },
+  {
+   "id": "hunt4",
+   "text": "Thunder Palm. Every swarm, shattered.",
+   "dur": 4.7
+  },
+  {
+   "id": "arsenal1",
+   "text": "Wounded, the monk arms himself. The temple becomes an arsenal.",
+   "dur": 6.02
+  },
+  {
+   "id": "gatling",
+   "text": "Gatling guns of stone.",
+   "dur": 2.41
+  },
+  {
+   "id": "rockets",
+   "text": "Homing rockets. Kaito takes to the walls.",
+   "dur": 4.65
+  },
+  {
+   "id": "cannon",
+   "text": "And a siege cannon, raining down on the rooftops.",
+   "dur": 4.17
+  },
+  {
+   "id": "indoor1",
+   "text": "There is nowhere to hide. Indoors, the stones become a storm.",
+   "dur": 5.91
+  },
+  {
+   "id": "indoor2",
+   "text": "A storm that drags him back out.",
+   "dur": 2.95
+  },
+  {
+   "id": "seekers",
+   "text": "Seeker swarms hunt him, room by room.",
+   "dur": 3.82
+  },
+  {
+   "id": "awaken",
+   "text": "Then... the Blade Hand awakens.",
+   "dur": 3.33
+  },
+  {
+   "id": "dragon",
+   "text": "Moros answers with a dragon the size of a street.",
+   "dur": 3.89
+  },
+  {
+   "id": "final1",
+   "text": "Broken, and furious, the monk calls every stone in the temple.",
+   "dur": 6.82
+  },
+  {
+   "id": "final2",
+   "text": "Stone by stone, he becomes the Living Temple.",
+   "dur": 5.16
+  },
+  {
+   "id": "final3",
+   "text": "A titan that walks, while it is still being born.",
+   "dur": 5.21
+  },
+  {
+   "id": "final4",
+   "text": "One last stance. Kaito calls his guardian.",
+   "dur": 5.99
+  },
+  {
+   "id": "final5",
+   "text": "And the temple... falls silent.",
+   "dur": 3.94
+  },
+  {
+   "id": "end",
+   "text": "Last Stance.",
+   "dur": 2.47
+  }
+ ]
+}

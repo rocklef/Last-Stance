@@ -1,0 +1,20 @@
+ANDROID: BuildTools: Succeeded, 0 errors, output C:/Users/ASUS/LastStance/UnityProject/../Build/LastStance.apk, 823 MB
+* daemon not running; starting now at tcp:5037
+* daemon started successfully
+Performing Streamed Install
+Success
+  bash arg: -p
+  bash arg: com.laststance.game
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+args: [-p, com.laststance.game, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.laststance.game"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.laststance.game"
+data="android.intent.category.LAUNCHER"
+Events injected: 1
+## Network stats: elapsed time=93ms (0ms mobile, 0ms wifi, 93ms not connected)

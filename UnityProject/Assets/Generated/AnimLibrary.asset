@@ -1,0 +1,675 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92dc532bca1c3bc45995231ef7223410, type: 3}
+  m_Name: AnimLibrary
+  m_EditorClassIdentifier: Assembly-CSharp::AnimLibrary
+  entries:
+  - name: BigUppercutReact
+    clip: {fileID: -203655887218126122, guid: dc59bd6255088e94ca18f999f72805bd, type: 3}
+    length: 2.4333334
+    impact: 1.1499996
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: Block
+    clip: {fileID: -203655887218126122, guid: e4a7f2f1e02025848802d448fa66161c, type: 3}
+    length: 2.8666668
+    impact: 1.8833323
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: BlockReact
+    clip: {fileID: -203655887218126122, guid: e60b9407cb56ca54e9c1329b0bd65b46, type: 3}
+    length: 1.3333334
+    impact: 0
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: BodyHit
+    clip: {fileID: -203655887218126122, guid: 2fa1704cebfd3f547b7e48ca56322f1a, type: 3}
+    length: 1.3333334
+    impact: 0.5333335
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: BouncingIdle
+    clip: {fileID: -203655887218126122, guid: a7be36217d140a34daebabb454d6b8bf, type: 3}
+    length: 2.966667
+    impact: 1.133333
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: Bow
+    clip: {fileID: -203655887218126122, guid: 2915384abfd69ca45974da5340861814, type: 3}
+    length: 2.7333336
+    impact: 1.1499996
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: Casting
+    clip: {fileID: -203655887218126122, guid: d3c9c3b65971dd84888ae8ade9060469, type: 3}
+    length: 2.966667
+    impact: 1.8166656
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: Cross
+    clip: {fileID: -203655887218126122, guid: ba7998792607a194f8798fe625adb4ff, type: 3}
+    length: 0.86666673
+    impact: 0.36666676
+    limb: 1
+    reach: 0.63828075
+    height: 1.3001637
+    travel: 0.000000030733652
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: CrouchIdle
+    clip: {fileID: -203655887218126122, guid: 5ef9951a0581b734b870f2af0ce87a1d, type: 3}
+    length: 2.4333334
+    impact: 1.9833322
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: DodgeAdvance
+    clip: {fileID: -203655887218126122, guid: e467a84049f0f71409d28a9d7b68c59e, type: 3}
+    length: 2.3333335
+    impact: 1.5666659
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: DodgeLeft
+    clip: {fileID: 4061839508520268033, guid: f5e6fa63e3cea2949a177b7a7ea743f3, type: 3}
+    length: 1.4333334
+    impact: 0.6000001
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: DodgeRetreat
+    clip: {fileID: -203655887218126122, guid: c3fe3fdd5dc656447ad9d14c8ab5662f, type: 3}
+    length: 2.2333333
+    impact: 0.31666672
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: DodgeRight
+    clip: {fileID: -203655887218126122, guid: f5e6fa63e3cea2949a177b7a7ea743f3, type: 3}
+    length: 1.4333334
+    impact: 0.6000001
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: Elbow
+    clip: {fileID: -203655887218126122, guid: 676a8b70b20c3bf438c95116dd6f3631, type: 3}
+    length: 1.7333335
+    impact: 0.6333334
+    limb: 8
+    reach: 0.46487707
+    height: 1.2438548
+    travel: 0.00000036145252
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: FallingBack
+    clip: {fileID: -203655887218126122, guid: f4f68b8ae0438cc45995d297ea81a3d6, type: 3}
+    length: 2.6000001
+    impact: 1.5666659
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: FallingIdle
+    clip: {fileID: -203655887218126122, guid: 4cf0ba2d4c6c883479f053421c6f668d, type: 3}
+    length: 0.70000005
+    impact: 0.5666668
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: FastRun
+    clip: {fileID: -203655887218126122, guid: 29391bb4d11f96c469acec87650b0a9d, type: 3}
+    length: 0.53333336
+    impact: 0.06666667
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: FightIdle
+    clip: {fileID: -203655887218126122, guid: 3f9463d19cb4b6148906f69054df2094, type: 3}
+    length: 3.3000002
+    impact: 1.0333331
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: Flexing
+    clip: {fileID: -203655887218126122, guid: 859990b35346f2946bf3e839d18ec10f, type: 3}
+    length: 3.8666668
+    impact: 2.1499987
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: FlyingKneeCombo
+    clip: {fileID: -203655887218126122, guid: 9108b07eea6b02845993d98611d865b0, type: 3}
+    length: 2.6666667
+    impact: 1.3499994
+    limb: 0
+    reach: 0.5930759
+    height: 1.6290586
+    travel: 1.8501489
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: FrontFlip
+    clip: {fileID: -203655887218126122, guid: c13bcab858c9f0c47b0f6616c69d46e5, type: 3}
+    length: 1.6666667
+    impact: 1.5999992
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: FrontKick
+    clip: {fileID: -203655887218126122, guid: dc4160c508b0d2f438bebf246a462ddf, type: 3}
+    length: 1.6000001
+    impact: 1.1499996
+    limb: 2
+    reach: 0.7998832
+    height: 0.94291306
+    travel: 0.00000007175838
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: GettingUp
+    clip: {fileID: -203655887218126122, guid: aed7542a20db4a84d8e27a7cfef66b39, type: 3}
+    length: 8.333334
+    impact: 3.2666643
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 5.6833525
+  - name: GrabSlam
+    clip: {fileID: -203655887218126122, guid: 92790c5881624e7498f9882e523139c4, type: 3}
+    length: 4.266667
+    impact: 3.7166638
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 2.5499983
+    recover: 0
+  - name: HardLanding
+    clip: {fileID: -203655887218126122, guid: 0d7bb570e43e177409661e70ef13f316, type: 3}
+    length: 2.5000002
+    impact: 0.81666654
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: Headbutt
+    clip: {fileID: -203655887218126122, guid: 4e7da720718e5f345a104687d56be57f, type: 3}
+    length: 2.2333333
+    impact: 0.84999985
+    limb: 6
+    reach: 0.24320473
+    height: 1.2565101
+    travel: -0.000000014565882
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: HeadHit
+    clip: {fileID: -203655887218126122, guid: e65614a9864ea3c418221867b3a8244b, type: 3}
+    length: 1.2333333
+    impact: 0.48333353
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: HighKick
+    clip: {fileID: -203655887218126122, guid: 33ed6f36c26ba2d4a9d035aebbb6523e, type: 3}
+    length: 2
+    impact: 0.7666666
+    limb: 3
+    reach: 0.93430465
+    height: 1.1364384
+    travel: 0.000000012566645
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: HitHeadLeft
+    clip: {fileID: -203655887218126122, guid: 2d8528ef868cd0945afe605007be9c50, type: 3}
+    length: 1.0666667
+    impact: 0.4333335
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: HitHeadRight
+    clip: {fileID: -203655887218126122, guid: 9eb4850a174c88d43a5dc1e3b0f2dc74, type: 3}
+    length: 1
+    impact: 0.9666664
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: HitHeadStraight
+    clip: {fileID: -203655887218126122, guid: bbcc6bd01a8af7845affaf850034484a, type: 3}
+    length: 0.9333334
+    impact: 0
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: Hook
+    clip: {fileID: -203655887218126122, guid: b695f431bb535b149bd9fec91fa974fa, type: 3}
+    length: 2
+    impact: 0.5000002
+    limb: 0
+    reach: 0.6494322
+    height: 1.3921901
+    travel: -0.000014863378
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: HurricaneKick
+    clip: {fileID: -203655887218126122, guid: 36adf0e092a323746bb5cf99512e8484, type: 3}
+    length: 1.8333334
+    impact: 0.28333336
+    limb: 7
+    reach: 0.5135321
+    height: 1.504647
+    travel: 0.5203939
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: Jab
+    clip: {fileID: -203655887218126122, guid: d3219aedeabc6b341a4a239c89abaca3, type: 3}
+    length: 1.5000001
+    impact: 0.4166668
+    limb: 0
+    reach: 0.65023035
+    height: 1.4321431
+    travel: -0.0000000021730866
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: KidneyHit
+    clip: {fileID: -203655887218126122, guid: 52a1d2a8fa98ee7409c29fcbf951ec62, type: 3}
+    length: 1.1333334
+    impact: 1.133333
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: Knee
+    clip: {fileID: -203655887218126122, guid: 2f24e04661406004c9d277b9e098deac, type: 3}
+    length: 2.266667
+    impact: 0.84999985
+    limb: 4
+    reach: 0.5679967
+    height: 1.039022
+    travel: 0.000000013615934
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: KnockedOut
+    clip: {fileID: -203655887218126122, guid: df13560749b77c341ba4727250f46fe1, type: 3}
+    length: 4.9333334
+    impact: 2.2166653
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: Martelo
+    clip: {fileID: -203655887218126122, guid: a9e0c5cf6aad90245b9c33fb4d758bbb, type: 3}
+    length: 1.3000001
+    impact: 0.4333335
+    limb: 2
+    reach: 0.74044645
+    height: 1.5305389
+    travel: -0.000009647015
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: PowerUp
+    clip: {fileID: -203655887218126122, guid: 1a2c832642fd721408d7839c286b6566, type: 3}
+    length: 2.3666668
+    impact: 0.38333344
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: ReactLargeFront
+    clip: {fileID: -203655887218126122, guid: c2f8f727d0408fe48b4b2f06b539bebe, type: 3}
+    length: 1.3666668
+    impact: 0.40000013
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: RibHit
+    clip: {fileID: -203655887218126122, guid: 87d9e88499e48be44856b3bb41660271, type: 3}
+    length: 1
+    impact: 0
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: RightHook
+    clip: {fileID: -203655887218126122, guid: bd23bb8b8967e76489aa8d26c0fdc765, type: 3}
+    length: 1.1
+    impact: 0.31666672
+    limb: 1
+    reach: 0.5850609
+    height: 1.4501698
+    travel: -0.00007127292
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: Roundhouse
+    clip: {fileID: -203655887218126122, guid: 6d745aca1fe82a2409a09446a942c44d, type: 3}
+    length: 1.5000001
+    impact: 0.74999994
+    limb: 3
+    reach: 0.7687703
+    height: 0.91888946
+    travel: -0.000032023338
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: Run
+    clip: {fileID: -203655887218126122, guid: c02a8207a08279a4a97bb377c481131d, type: 3}
+    length: 0.70000005
+    impact: 0.65000004
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: Running
+    clip: {fileID: -203655887218126122, guid: f379a556229763443b028fd9b2506fd3, type: 3}
+    length: 0.70000005
+    impact: 0.65000004
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: RunningJump
+    clip: {fileID: -203655887218126122, guid: ee45526a297fc0b4c8ab4c9fae2becb6, type: 3}
+    length: 0.90000004
+    impact: 0.8999998
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: SideKick
+    clip: {fileID: -203655887218126122, guid: 8a4677c882cbcb043a9888d24782d921, type: 3}
+    length: 1.6000001
+    impact: 0.68333334
+    limb: 2
+    reach: 0.93505704
+    height: 1.2082697
+    travel: -0.00000003563861
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: SpinBackKick
+    clip: {fileID: -203655887218126122, guid: 94a0770b47ddd504e80a1e7262551d3b, type: 3}
+    length: 2.0333335
+    impact: 0.98333305
+    limb: 3
+    reach: 0.91368276
+    height: 1.3197503
+    travel: 0.12198183
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: SpiritSummon
+    clip: {fileID: -203655887218126122, guid: e75b3fe0b8720024597ec864c853da80, type: 3}
+    length: 2.1666667
+    impact: 0.84999985
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: StepBackward
+    clip: {fileID: -203655887218126122, guid: fa7a5afd37601e34b8e9f364ae7d51af, type: 3}
+    length: 0.8000001
+    impact: 0.4333335
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: StepForward
+    clip: {fileID: -203655887218126122, guid: bd364fd2055b2a74698c8f458911d10e, type: 3}
+    length: 0.9333334
+    impact: 0.5333335
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: StomachHit
+    clip: {fileID: -203655887218126122, guid: e3d4c37a729499840bac84eb4c23ffab, type: 3}
+    length: 1.2
+    impact: 0
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: StrafeLeft
+    clip: {fileID: -203655887218126122, guid: e647c5d04ff2d5944867c83faace7503, type: 3}
+    length: 1.0666667
+    impact: 0.55000013
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: StrafeRight
+    clip: {fileID: -203655887218126122, guid: fed096b9a7e92f848945478be6deb78d, type: 3}
+    length: 1.1666667
+    impact: 0.5333335
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: ThrowAggressor
+    clip: {fileID: -203655887218126122, guid: 5b67b6e2d4adde948a6a245df30d3698, type: 3}
+    length: 6.666667
+    impact: 2.1666653
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: ThrowVictim
+    clip: {fileID: -203655887218126122, guid: 6869f91f04f8e4b4a922069a4b7037c1, type: 3}
+    length: 6.666667
+    impact: 5.583351
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: ThunderPalm
+    clip: {fileID: -203655887218126122, guid: e6af6f9da8dec7f428fd1205a9259f2e, type: 3}
+    length: 2.966667
+    impact: 1.3999994
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: Uppercut
+    clip: {fileID: -203655887218126122, guid: 50d6606c325582a4887d821ec14e702a, type: 3}
+    length: 2.2
+    impact: 1.4999993
+    limb: 0
+    reach: 0.29786173
+    height: 1.4140668
+    travel: -0.000000008940693
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: VictoryBoxing
+    clip: {fileID: -203655887218126122, guid: 136ce749a90c0394ca6efc778a9983ac, type: 3}
+    length: 4.5
+    impact: 0.4166668
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0
+  - name: VictoryCelebrate
+    clip: {fileID: -203655887218126122, guid: 652d334768ff9fe48bc1eebb152d4483, type: 3}
+    length: 8.533334
+    impact: 4.850008
+    limb: 0
+    reach: 0
+    height: 0
+    travel: 0
+    offset: {x: 0, y: 0, z: 0}
+    contact: 0
+    recover: 0

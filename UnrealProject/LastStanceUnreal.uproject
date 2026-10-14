@@ -1,0 +1,9 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.7",
+  "Category": "Games",
+  "Description": "Hyper-scale cinematic fighting prototype.",
+  "Modules": [
+    { "Name": "LastStanceUnreal", "Type": "Runtime", "LoadingPhase": "Default" }
+  ]
+}

@@ -1,0 +1,57 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+.utmp/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Generated project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Builds and packages (GitHub rejects files over 100 MB)
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Unreal generated
+UnrealProject/Binaries/
+UnrealProject/DerivedDataCache/
+UnrealProject/Intermediate/
+UnrealProject/Saved/
+
+# Local Android SDK/NDK zips used by the phone build
+tools/android-deps/
+
+# Editor and build logs
+*.log
+
+# Blender backups
+*.blend1
+*.blend1.meta
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini

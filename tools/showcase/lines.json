@@ -1,0 +1,33 @@
+{
+  "lines": [
+    { "id": "open1", "text": "High above the valley stands a temple... and in it, a monk who commands every stone." },
+    { "id": "open2", "text": "Moros. The Shard Monk." },
+    { "id": "axe", "text": "He tears the courtyard apart, and shapes it into weapons. An executioner's axe." },
+    { "id": "gauntlet", "text": "But Kaito, the Blade Hand, answers stone with stone." },
+    { "id": "serpent", "text": "A serpent dragon... shattered by a single punch." },
+    { "id": "grasp", "text": "A titan's hand closes around him. Thunder Palm blasts it apart." },
+    { "id": "lances", "text": "A storm of stone lances." },
+    { "id": "roc", "text": "A bird of stone, diving from the sky." },
+    { "id": "hammer", "text": "The Skybreaker." },
+    { "id": "flood", "text": "And a flood of rock." },
+    { "id": "hunt1", "text": "When Kaito runs, Moros hunts. Serpents of stone sweep the streets." },
+    { "id": "hunt2", "text": "Up on the rooftops, the swarms cannot see him." },
+    { "id": "hunt3", "text": "Until he comes down." },
+    { "id": "hunt4", "text": "Thunder Palm. Every swarm, shattered." },
+    { "id": "arsenal1", "text": "Wounded, the monk arms himself. The temple becomes an arsenal." },
+    { "id": "gatling", "text": "Gatling guns of stone." },
+    { "id": "rockets", "text": "Homing rockets. Kaito takes to the walls." },
+    { "id": "cannon", "text": "And a siege cannon, raining down on the rooftops." },
+    { "id": "indoor1", "text": "There is nowhere to hide. Indoors, the stones become a storm." },
+    { "id": "indoor2", "text": "A storm that drags him back out." },
+    { "id": "seekers", "text": "Seeker swarms hunt him, room by room." },
+    { "id": "awaken", "text": "Then... the Blade Hand awakens." },
+    { "id": "dragon", "text": "Moros answers with a dragon the size of a street." },
+    { "id": "final1", "text": "Broken, and furious, the monk calls every stone in the temple." },
+    { "id": "final2", "text": "Stone by stone, he becomes the Living Temple." },
+    { "id": "final3", "text": "A titan that walks, while it is still being born." },
+    { "id": "final4", "text": "One last stance. Kaito calls his guardian." },
+    { "id": "final5", "text": "And the temple... falls silent." },
+    { "id": "end", "text": "Last Stance." }
+  ]
+}
